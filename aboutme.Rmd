@@ -1,0 +1,18 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+<br/>
+
+### Studies
+
+I have a Physics Licence from PARIS Diderot University. Now, I am doing a Computer Science Master in apprenticeship at EPITA PARIS.
+
+<br/>
+
+### Professional
+
+During my apprenticeship, I am working as a Test Automation Developer.

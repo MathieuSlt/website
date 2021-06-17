@@ -1,0 +1,19 @@
+name: "Mywebsite"
+title: "Mathieu SALLIOT"
+type: inverse
+left:
+  - text: "About me"
+    menu:
+      - text: "Learn more about me"
+        href: ./aboutme.html
+  - text: "Project"
+    menu:
+       - text: "Libstream"
+         href: ./project1.html
+       - text: "Malloc"
+         href: ./project2.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/SanjiKush
